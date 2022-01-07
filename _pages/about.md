@@ -20,7 +20,6 @@ News
 - Coming soon !
 
 
-
-======
+---
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=uVi_OeHVpO3svIPk7ZwPe9_-kc9Csa_JqJLQr3t1oOg"></script>
 
