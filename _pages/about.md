@@ -10,14 +10,14 @@ redirect_from:
 
 About me
 ======
-I’m a Master's student at [Télécom Paris](https://www.telecom-paris.fr/) and fully expect to complete my Master’s degree requirements by September 2022. My emphasis is Computer Vision and Artificial Intelligence. My research interests include 3D Computer Vision and Scene Understanding and my research is driven by a strong desire to build intelligent agents that understand, interact with, and reason about the world thus assisting in Human daily life.
-I completed my B.S. in Computer Science and Technology at [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) on 2016.
+I’m a PhD student by at [Computer Vision Group, TUM](https://cvg.cit.tum.de/members/wxu), co-supervised by Prof. Dr. Daniel Cremers and Prof. Dr.-Ing. Niclas Zeller. My research is focused on 3D Computer Vision and Artificial Intelligence, with the goal of developing intelligent agents capable of understanding, interacting with, and reasoning about their environment to support human daily activities.
+I btained my Diplôme d'ingénieur (M.S.) from [Télécom Paris](https://www.telecom-paris.fr/) in 2022, following the completion of my B.S. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
 <!-- **Announcement**: I am currently looking for a doctor or a research position on 3D Computer Vision. Position sought for October/November 2022. -->
 
 News
 ======
-- In compliance with the new EU Digital Services Act, I am currently conducting a Computer Vision/AI research internship for redetecting harmful content at Tremau under the supervision of [Prof.Evgeniou](https://www.insead.edu/faculty-research/faculty/theodoros-evgeniou).
+- Coming.
 
 
 ---
