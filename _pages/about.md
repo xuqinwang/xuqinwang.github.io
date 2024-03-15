@@ -11,7 +11,7 @@ redirect_from:
 About me
 ======
 I’m a PhD student by at [Computer Vision Group, TUM](https://cvg.cit.tum.de/members/wxu), co-supervised by Prof. Dr. Daniel Cremers and Prof. Dr.-Ing. Niclas Zeller. My research is focused on 3D Computer Vision and Artificial Intelligence, with the goal of developing intelligent agents capable of understanding, interacting with, and reasoning about their environment to support human daily activities.
-I btained my Diplôme d'ingénieur (M.S.) from [Télécom Paris](https://www.telecom-paris.fr/) in 2022, following the completion of my B.S. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
+I obtained my Diplôme d'ingénieur (M.S.) from [Télécom Paris](https://www.telecom-paris.fr/) in 2022, following the completion of my B.S. from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
 <!-- **Announcement**: I am currently looking for a doctor or a research position on 3D Computer Vision. Position sought for October/November 2022. -->
 
