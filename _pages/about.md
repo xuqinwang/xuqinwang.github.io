@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ======
-I’m a PhD student at [Computer Vision Group, TUM](https://cvg.cit.tum.de/members/wxu), co-supervised by Prof. Dr. Daniel Cremers and Prof. Dr.-Ing. Niclas Zeller. 
+I’m a PhD student at [Computer Vision Group, Technical University of Munich](https://cvg.cit.tum.de/members/wxu), co-supervised by Prof. Dr. Daniel Cremers and Prof. Dr.-Ing. Niclas Zeller. 
 <!-- My research is focused on 3D Computer Vision and Artificial Intelligence, with the goal of developing intelligent agents capable of understanding, interacting with, and reasoning about their environment to support human daily activities. -->
 My research is focused on Generative AI, Optimal Transport and Agentic AI.
 
