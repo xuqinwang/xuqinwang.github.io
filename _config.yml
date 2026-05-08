@@ -83,11 +83,11 @@ author:
   name             : "Xuqin WANG"
   avatar           : "wxq_jojo.png"
   bio              : "PhD student at [Computer Vision Group, TUM](https://cvg.cit.tum.de/members/wxu)"
-  location         : "Palaiseau, France"
+  location         : "Munich, Germany"
   employer         :
   pubmed           :  #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    :  #"http://yourfullgooglescholarurl.com"
-  email            : "xuqin.wang[at]telecom-paris.fr"
+  googlescholar    : "https://scholar.google.com/citations?user=YXGDPHEAAAAJ&hl=en"
+  email            : "xuqin.wang@tum.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
