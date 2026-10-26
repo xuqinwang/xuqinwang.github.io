@@ -44,8 +44,12 @@ publications = (root / 'publications/index.html').read_text()
 assert publications.count('<em>Under review.</em>') == 2
 for venue in ['ICLR 2027', 'ICRA 2027', 'Submitted to']:
     assert venue not in publications, f'Submission venue disclosed: {venue}'
-for required in ['https://arxiv.org/abs/2609.21804', 'https://videoreloc.github.io/']:
+for required in ['https://arxiv.org/abs/2609.21804', 'https://videoreloc.github.io/',
+                 'https://cinematraj.github.io/']:
     assert required in publications, f'Missing publication status/link: {required}'
+home = (root / 'index.html').read_text()
+assert 'Xuqin Wang 汪栩沁' in home
+assert '/images/profile_ai_sunset.jpg' in home
 for alias in ['about/index.html', 'about.html', 'resume.html', 'resume/index.html']:
     assert (root / alias).is_file(), f'Missing compatibility redirect: {alias}'
 for removed in ['talks', 'teaching', 'portfolio', 'year-archive', 'markdown']:

@@ -1,7 +1,7 @@
 # Shared profile and build settings. Page content lives in pages/.
 locale: en-US
-title: "Xuqin Wang"
-name: "Xuqin Wang"
+title: "Xuqin Wang 汪栩沁"
+name: "Xuqin Wang 汪栩沁"
 description: "PhD researcher in generative AI, representation learning, and multimodal learning at TUM."
 url: https://xuqinwang.github.io
 baseurl: ""
@@ -9,8 +9,8 @@ repository: xuqinwang/xuqinwang.github.io
 timezone: Europe/Berlin
 
 author:
-  name: Xuqin Wang
-  avatar: wxq_jojo.png
+  name: Xuqin Wang 汪栩沁
+  avatar: profile_ai_sunset.jpg
   bio: "PhD student, Computer Vision Group, TUM"
   location: Munich, Germany
   email: wxqcn666@gmail.com
