@@ -8,7 +8,7 @@ permalink: /education/
 **PhD student, School of Computation, Information and Technology**  
 Munich, Germany · May 2023–present
 
-Supervisors: Prof. Dr. Daniel Cremers and Prof. Dr.-Ing. Niclas Zeller.
+Supervisors: [Prof. Dr. Daniel Cremers](https://cvg.cit.tum.de/members/cremers) and [Prof. Dr.-Ing. Niclas Zeller](https://cvg.cit.tum.de/members/zlniclas).
 
 ## Télécom Paris, Institut Polytechnique de Paris
 

@@ -16,7 +16,7 @@ Munich, Germany · May 2023–present
 ## Tremau
 
 **Research Intern**  
-Paris, France · March–September 2022
+Paris, France · March 2022 – April 2023
 
 Advisor: Theodoros Evgeniou.
 
