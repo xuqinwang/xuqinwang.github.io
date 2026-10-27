@@ -11,6 +11,11 @@ I'm a PhD student in the [Computer Vision Group at the Technical University of M
 
 My research focuses on **Generative AI**, **Representation Learning**, and **Multimodal Learning**, with broader experience in domain adaptation, image editing, generative model distillation, 3D vision, scene understanding, and agentic AI.
 
+A principle I try to follow in research and life: **keep your priors light, and update with evidence.**
+
+**Open to opportunities:** I welcome conversations about research collaborations and research-oriented roles in generative AI, 3D vision, and multimodal learning.
+{: .notice--success }
+
 <!-- I am also an Industrial PhD Researcher at Huawei Munich Research Center, working on generative AI, 3D vision, and multimodal reasoning. -->
 
 <!-- Explore my [publications]({{ '/publications/' | relative_url }}), [research experience]({{ '/experience/' | relative_url }}), and [education]({{ '/education/' | relative_url }}). -->
