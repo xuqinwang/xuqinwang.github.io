@@ -33,6 +33,7 @@ for route in routes:
     assert page.headings == 1, f'{route}: expected one main heading'
     assert 'class="masthead__logo"' in text, f'{route}: missing site logo'
     assert 'rel="icon"' in text, f'{route}: missing favicon'
+    assert 'Powered by' not in text, f'{route}: stale footer credit'
     assert '{{' not in text and '{%' not in text, f'{route}: unrendered Liquid'
     for link in page.links:
         url = urlsplit(link)
@@ -52,6 +53,8 @@ for required in ['https://arxiv.org/abs/2609.21804', 'https://videoreloc.github.
 home = (root / 'index.html').read_text()
 assert 'Xuqin Wang 汪栩沁' in home
 assert '/images/profile_ai_sunset.jpg' in home
+assert 'Open to opportunities' in home
+assert 'keep your priors light, and update with evidence' in home
 cv = (root / 'cv/index.html').read_text()
 assert 'type="application/pdf"' in cv
 assert '/files/CV_XuqinWang_TUM.pdf' in cv
