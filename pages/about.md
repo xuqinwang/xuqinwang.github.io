@@ -14,8 +14,8 @@ My research focuses on **Generative AI**, **Representation Learning**, and **Mul
 
 A principle I try to follow in research and life: **keep your priors light, your sample efficiency high, and update with evidence.**
 
-**Open to opportunities:** I welcome conversations about research collaborations and research-oriented roles in generative AI, 3D vision, and multimodal learning.
-{: .notice--primary }
+<!-- **Open to opportunities:** I welcome conversations about research collaborations and research-oriented roles in generative AI, 3D vision, and multimodal learning. -->
+<!-- {: .notice--primary } -->
 <!-- {: .notice--success } -->
 **Open to opportunities:** I welcome conversations about applied research, and product/business-driven AI roles. 
 <!-- Let's cross-pollinate our tech stacks—I’m looking for collaborative environments where we update our ideas with real-world evidence and build tools that matter. -->
