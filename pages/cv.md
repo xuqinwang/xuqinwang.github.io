@@ -6,6 +6,8 @@ redirect_from:
   - /resume/
 ---
 
-The sections of my CV are available as [publications]({{ '/publications/' | relative_url }}), [experience]({{ '/experience/' | relative_url }}), [education]({{ '/education/' | relative_url }}), and [skills and service]({{ '/skills/' | relative_url }}).
+<p><a href="{{ '/files/CV_XuqinWang_TUM.pdf' | relative_url }}" download>Download CV (PDF)</a></p>
 
-[Download the previous PDF version]({{ '/files/CV_XuqinWang_TUM.pdf' | relative_url }}). This PDF predates the current website content.
+<object class="cv-pdf" data="{{ '/files/CV_XuqinWang_TUM.pdf' | relative_url }}" type="application/pdf" aria-label="Xuqin Wang CV">
+  <p>Your browser cannot display the PDF inline. <a href="{{ '/files/CV_XuqinWang_TUM.pdf' | relative_url }}">Open the CV as a PDF</a>.</p>
+</object>

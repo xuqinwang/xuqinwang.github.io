@@ -51,3 +51,16 @@
     font-weight: 700;
   }
 }
+
+.masthead .masthead__site-title {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.masthead__logo {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  object-fit: cover;
+}
