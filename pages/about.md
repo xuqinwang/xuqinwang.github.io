@@ -17,7 +17,7 @@ A principle I try to follow in research and life: **keep your priors light, your
 <!-- **Open to opportunities:** I welcome conversations about research collaborations and research-oriented roles in generative AI, 3D vision, and multimodal learning. -->
 <!-- {: .notice--primary } -->
 <!-- {: .notice--success } -->
-**Open to opportunities:** I welcome conversations about applied research, and product/business-driven AI roles. 
+**Open to opportunities:** I welcome conversations about applied research, and product/business-driven AI roles.
 <!-- Let's cross-pollinate our tech stacks—I’m looking for collaborative environments where we update our ideas with real-world evidence and build tools that matter. -->
 <!-- I thrive in cross-functional teams where we can pool our tech stacks, exchange perspectives, and turn complex models into production-ready solutions. -->
 I’m always keen to cross-pollinate ideas and swap perspectives on different tech stacks—because the best code happens when you step outside your own sandbox to solve a real problem.
